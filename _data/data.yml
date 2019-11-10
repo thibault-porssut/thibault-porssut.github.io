@@ -33,40 +33,45 @@ sidebar:
         level: Proficient
 
       - idiom: Italian
-        level: Good working knowledge
+        level: Basic knowledge
 
     interests:
-      - item: Skiing
+      - item: Skiing,Swimming,Hiking
         link: 
 
-      - item: Swimming
+      - item: Video games, Board Game
         link:
 
-      - item:
+      - item: Cinema,Theater 
         link:
+
+      - item: Traveling 
+        link:
+
+
 
 career-profile:
     title: Career Profile
     summary: |
-      I received a Master degree in Mechanical engineering and Industrial Engineering from l’ Ecole des Arts et Métiers and a Research Master’s degree in Digital Mock-up and Virtual Immersion from Institut Image in France. I did my Master project at EVL in Chicago in partnership with Mechdyne.  It was about Collaborative task between the HTC Vive and the CAVE 2.  Now I work on “Embodiment in Virtual Reality” as a PhD student at EPFL under the supervision of Dr.Ronan Boulic and Dr.Buno Herbelin for the IIG laboratory and the LNCO laboratory.
+      <div style= "text-align: justify !important;"> I received a Master's degree in Mechanical engineering and Industrial Engineering from Ecole des Arts et Métiers and a Research Master’s degree in Digital Mock-up and Virtual Immersion from Institut Image in France. I did my Master project at EVL in Chicago in partnership with Mechdyne.  It was about collaborative tasks between the HTC Vive and the CAVE2.  Now I work on “Embodiment in Virtual Reality” as a PhD student at EPFL under the supervision of Dr. Ronan Boulic and Dr. Buno Herbelin for the IIG laboratory and the LNCO laboratory.</div>
 
 education:
-    - degree: PhD Student in Doctoral School Robotics, Control and Intelligent
+    - degree: PhD Student in Doctoral School of Robotics, Control, and Intelligent Systems
       university: École Polytechnique Fédérale de Lausanne, Switzerland
       time: 2016 - Present
       details: |
         **Thesis Title**: Improving Embodiment with an Adaptive Virtual Reality World.  
-        **Advisor**: Dr. Ronan Boulic & Dr. Bruno Herbelin
+        **Advisors**: Dr. Ronan Boulic & Dr. Bruno Herbelin
 
     - degree: MSc in Digital Mock-up and Virtual Immersion
-      university: Ecole Nationale Supérieure d’Arts et Métiers, France
+      university: Ecole Nationale Supérieure des Arts et Métiers, France
       time: 2015 - 2016
       details: |
          **Thesis Title**: Asymmetric Telecollaboration in Virtual Reality  
-         **Advisor**: Dr. Jean-Rémy Chardonnet & Dr. Frederic Merienne
+         **Advisorsr**: Dr. Jean-Rémy Chardonnet & Dr. Frederic Merienne
 
     - degree: MSc in Mechanical and Industrial Engineering
-      university: Ecole Nationale Supérieure d’Arts et Métiers, France
+      university: Ecole Nationale Supérieure des Arts et Métiers, France
       time: 2013 - 2016
       details: |
 
@@ -74,61 +79,61 @@ education:
       university: Dorian Institute, France
       time: 2009 - 2013
       details: |
-         4 years of classe préparatoire:A undergraduate program in Math and Science
-         preparing for the National Competitive Entrance
+         4 years of classe préparatoire: undergraduate program in Mathematics and Science
+         preparing for the National Competitive Entrance Exam
 
 experiences:
-    - role: Research and Teaching Assistant in Immersive Interaction Group (IIG)
+    - role: Research and Teaching Assistant within the Immersive Interaction Group (IIG)
       time: 2016 - Present
       company: École Polytechnique Fédérale de Lausanne, Switzerland
       details: |
-        I have been helping for the course in C and C++ programming for 1st year bachelor and for the VR course in master.
-        I have supervised several semester projects for master and bachelor.The list of these project have been listed in Supervised Project section
+        <div style="text-align: justify;"> I'm a teaching asistant for the C and C++ programming courses for 1st year bachelor students and a VR course for master students.
+        I have supervised several semester projects for both  master and bachelor students. A list of these projects is available under the Supervised Project section.</div>
 
     - role: Internship
       time: March 2016 - August 2016
       company: Electronic Visualization Laboratory, Chicago/Mechdyne, Marshalltown
       details: |
-        I have been working for <a href="https://www.mechdyne.com/" target="_blank">Mechdyne</a> at EVL laboratory. I had several projects. My first project was to work for Oréal. I have implemented a VR application in the <a href="https://www.mechdyne.com/hardware.aspx?name=CAVE2" target="_blank">CAVE2</a>. It was a Unity project simulating a virtual shop where the user were able to grab virtual Oréal product. We have tested several interactions and different way to have an inventory ( smartphone and virtual bag). My second project was to evaluate asymmetric collaboration beween an user in the CAVE2 and an user with an HMD ( HTC Vive).
+        <div style="text-align: justify;"> I worked for <a href="https://www.mechdyne.com/" target="_blank">Mechdyne</a> at the <a href="https://www.evl.uic.edu/" target="_blank">EVL</a> laboratory in Chicago. I worked several projects. My first project was to work for L'Oréal. I implemented a VR application in the <a href="https://www.mechdyne.com/hardware.aspx?name=CAVE2" target="_blank">CAVE2</a>. It was a Unity project simulating a virtual shop where the user were able to grab virtual L'Oréal products. I tested several interactions and different ways to have a virtual shopping cart coupled with a smartphone. My second project was to evaluate asymmetrical collaboration between a user in the CAVE2 and a user with an HMD (HTC Vive). </div>
         
        
     - role: Défi Chal'enge
       time: November 2016 - January 2016
       company: 
       details: |
-        Implement an immersive application for the enterprises working around Châlon sur Saône.I have implemented with a second student, a Unity application allowing to showcase modulable container. This container can have several different purposes and the user was able to arrange the 3D modele in realtime with several component available.
+       <div style="text-align: justify;"> Implemented an immersive application for the businesses working around Châlon-sur-Saône. A long  with a second student, I have implemented a Unity application showcasing a modular shipping container. This container can have several different purposes, for example a laboratory, and the user was able to arrange the 3D model in realtime with several components available. </div>
         
-    - role: Project Student
+    - role: Student Project
       time: September 2016 - December 2016
       company: Institut Image, Châlon-sur-Saône
       details: |
-              In a group of two, we have implemented an application working with a <a href="https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment" target="_blank">CAVE</a> (Cave automatic virtual environment) and stereoscopic glasses equipped with an Eye-Tracking system providing by SMI. The goals were to implement the Unity plugin for the glasses and the CAVE and use the eyes positions to enable a blure the user eyesight to reduce motion sickness.
+             <div style="text-align: justify;"> Working in a pair, we implemented an application for  a <a href="https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment" target="_blank">CAVE</a> (Cave automatic virtual environment) and stereoscopic glasses equipped with an eye-tracking system provided by SMI. The goals were to implement a Unity plugin for the glasses and the CAVE, and to use the eye position of the user to reduce motion sickness by blurring everything but  the focus point.</div>
         
 projects:
     title: Supervised Projects
     intro: >
-      Semester projects for master or bachelor in computer science I have written and supervised during my PhD thesis.
+      Semester projects for both bachelor and master students in computer science I have designed and supervised during my PhD thesis.
 
     assignments:
       - title: Procedural Game Based on the Real World
         link: Semester project_2018_TP_Procedural_Game_Based_on_the_Real_World.pdf
-        tagline: "Develop a game in Virtual Reality taking advantage of tangible elements of the world surrounding the user."
+        tagline: "Develop a game in Virtual Reality taking advantage of tangible elements in  the world surrounding the user."
 
         # - title: Phonocolor
         #link: "#"
         #tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Developing a Game with KATWalkVR
+      - title: Developing a Game with KatWalkVR
         link: Semester project_2018_TP_Developing_a_Game_with_KATWalkVR.pdf
-        tagline: "Develop a Virtual Reality game compatible with the Kat Walk."
+        tagline: "Develop a Virtual Reality game compatible with the KatWalkVR" 
 
       - title: World of Passive Haptic Interaction
         link: Semester project_2018_TP_World_of_Passive_Haptic_ Interaction.pdf
-        tagline: "Integrate passive haptic feedback in games through tangible objects/structures"
+        tagline: "Integrate passive haptic feedback in games through tangible objects/structures."
 
       - title: Automatic Grasping in Virtual Reality
         link: Semester project_2018_TP_Automatic Grasping in Virtual Reality.pdf
-        tagline: "Implement an automatic grasping system to improve the interaction in virtual reality."
+        tagline: "Implement an automatic grasping system to improve interactions in virtual reality."
 
         # - title: Break in Presence
         #  link: Semester project_2018_TP_Implementation_of_a_Virtual_Reality_Application_to_Evaluate_a_Break_in_Presence.pdf
@@ -137,7 +142,7 @@ projects:
 publications:
     title: Publications
     intro: >
-      List of my publications in chronological order
+            List of my publications in chronological order:
     papers:
       - title: Real-Time Neural Network Prediction for Handling Two-Hands Mutual Occlusions 
         link: 10.1016/j.cagx.2019.100011
@@ -181,11 +186,14 @@ skills:
       - name: Python & Keras & Machine Learning
         level: 70%
 
+      - name: C#
+        level: 70%
+      
       - name: C++
-        level: 60%
+        level: 40%
 
       - name: C
-        level: 50%
+        level: 20%
 
       - name: CATIA
         level: 50%
