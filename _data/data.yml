@@ -1,0 +1,194 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Thibault Porssut
+    tagline: PhD Student
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email:
+    phone: +33 6 31 35 89 60
+    website: thibault-porssut.github.io #do not add http://
+    linkedin: thibault-porssut
+    researchgate: Thibault_Porssut
+    github: #[link to Google!](http://google.com)
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: French
+        level: Native
+
+      - idiom: English
+        level: Proficient
+
+      - idiom: Italian
+        level: Good working knowledge
+
+    interests:
+      - item: Skiing
+        link: 
+
+      - item: Swimming
+        link:
+
+      - item:
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I received a Master degree in Mechanical engineering and Industrial Engineering from l’ Ecole des Arts et Métiers and a Research Master’s degree in Digital Mock-up and Virtual Immersion from Institut Image in France. I did my Master project at EVL in Chicago in partnership with Mechdyne.  It was about Collaborative task between the HTC Vive and the CAVE 2.  Now I work on “Embodiment in Virtual Reality” as a PhD student at EPFL under the supervision of Dr.Ronan Boulic and Dr.Buno Herbelin for the IIG laboratory and the LNCO laboratory.
+
+education:
+    - degree: PhD Student in Doctoral School Robotics, Control and Intelligent
+      university: École Polytechnique Fédérale de Lausanne, Switzerland
+      time: 2016 - Present
+      details: |
+        **Thesis Title**: Improving Embodiment with an Adaptive Virtual Reality World.  
+        **Advisor**: Dr. Ronan Boulic & Dr. Bruno Herbelin
+
+    - degree: MSc in Digital Mock-up and Virtual Immersion
+      university: Ecole Nationale Supérieure d’Arts et Métiers, France
+      time: 2015 - 2016
+      details: |
+         **Thesis Title**: Asymmetric Telecollaboration in Virtual Reality  
+         **Advisor**: Dr. Jean-Rémy Chardonnet & Dr. Frederic Merienne
+
+    - degree: MSc in Mechanical and Industrial Engineering
+      university: Ecole Nationale Supérieure d’Arts et Métiers, France
+      time: 2013 - 2016
+      details: |
+
+    - degree: BSc in Mathematics
+      university: Dorian Institute, France
+      time: 2009 - 2013
+      details: |
+         4 years of classe préparatoire:A undergraduate program in Math and Science
+         preparing for the National Competitive Entrance
+
+experiences:
+    - role: Research and Teaching Assistant in Immersive Interaction Group (IIG)
+      time: 2016 - Present
+      company: École Polytechnique Fédérale de Lausanne, Switzerland
+      details: |
+        I have been helping for the course in C and C++ programming for 1st year bachelor and for the VR course in master.
+        I have supervised several semester projects for master and bachelor.The list of these project have been listed in Supervised Project section
+
+    - role: Internship
+      time: March 2016 - August 2016
+      company: Electronic Visualization Laboratory, Chicago/Mechdyne, Marshalltown
+      details: |
+        I have been working for <a href="https://www.mechdyne.com/" target="_blank">Mechdyne</a> at EVL laboratory. I had several projects. My first project was to work for Oréal. I have implemented a VR application in the <a href="https://www.mechdyne.com/hardware.aspx?name=CAVE2" target="_blank">CAVE2</a>. It was a Unity project simulating a virtual shop where the user were able to grab virtual Oréal product. We have tested several interactions and different way to have an inventory ( smartphone and virtual bag). My second project was to evaluate asymmetric collaboration beween an user in the CAVE2 and an user with an HMD ( HTC Vive).
+        
+       
+    - role: Défi Chal'enge
+      time: November 2016 - January 2016
+      company: 
+      details: |
+        Implement an immersive application for the enterprises working around Châlon sur Saône.I have implemented with a second student, a Unity application allowing to showcase modulable container. This container can have several different purposes and the user was able to arrange the 3D modele in realtime with several component available.
+        
+    - role: Project Student
+      time: September 2016 - December 2016
+      company: Institut Image, Châlon-sur-Saône
+      details: |
+              In a group of two, we have implemented an application working with a <a href="https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment" target="_blank">CAVE</a> (Cave automatic virtual environment) and stereoscopic glasses equipped with an Eye-Tracking system providing by SMI. The goals were to implement the Unity plugin for the glasses and the CAVE and use the eyes positions to enable a blure the user eyesight to reduce motion sickness.
+        
+projects:
+    title: Supervised Projects
+    intro: >
+      Semester projects for master or bachelor in computer science I have written and supervised during my PhD thesis.
+
+    assignments:
+      - title: Procedural Game Based on the Real World
+        link: Semester project_2018_TP_Procedural_Game_Based_on_the_Real_World.pdf
+        tagline: "Develop a game in Virtual Reality taking advantage of tangible elements of the world surrounding the user."
+
+        # - title: Phonocolor
+        #link: "#"
+        #tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Developing a Game with KATWalkVR
+        link: Semester project_2018_TP_Developing_a_Game_with_KATWalkVR.pdf
+        tagline: "Develop a Virtual Reality game compatible with the Kat Walk."
+
+      - title: World of Passive Haptic Interaction
+        link: Semester project_2018_TP_World_of_Passive_Haptic_ Interaction.pdf
+        tagline: "Integrate passive haptic feedback in games through tangible objects/structures"
+
+      - title: Automatic Grasping in Virtual Reality
+        link: Semester project_2018_TP_Automatic Grasping in Virtual Reality.pdf
+        tagline: "Implement an automatic grasping system to improve the interaction in virtual reality."
+
+        # - title: Break in Presence
+        #  link: Semester project_2018_TP_Implementation_of_a_Virtual_Reality_Application_to_Evaluate_a_Break_in_Presence.pdf
+        #  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: >
+      List of my publications in chronological order
+    papers:
+      - title: Real-Time Neural Network Prediction for Handling Two-Hands Mutual Occlusions 
+        link: 10.1016/j.cagx.2019.100011
+        authors: Dario Pavllo, Mathias Delahaye, Thibault Porssut, Bruno Herbelin, Ronan Boulic
+        conference: " Computers & Graphics: X, 2019"
+
+      - title: Reconciling Being in-Control vs. Being Helped for the Execution of Complex Movements in VR
+        link: 10.1109/VR.2019.8797716
+        authors: Porssut Thibault, Herbelin Bruno, Boulic Ronan
+        conference:  "IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019"
+
+      - title: Real-Time Marker-Based Finger Tracking with Neural Networks
+        link: 10.1109/VR.2018.8446173
+        authors: Dario Pavllo, Thibault Porssut, Bruno Herbelin, Ronan Boulic
+        conference: "IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2018"
+
+      - title: Real-time Finger Tracking Using Active Motion Capture:a Neural Network Approach Robust to Occlusions
+        link: 10.1145/3274247.3274501
+        authors: Dario Pavllo, Thibault Porssut, Bruno Herbelin, Ronan Boulic
+        conference: "Proceedings of the 11th Annual International Conference on Motion, Interaction, and Games"
+
+      - title: Virtual Zero Gravity Impact on Internal Gravity Model
+        link: 10.1109/VR.2017.7892300
+        authors: Porssut Thibault, Herbelin Bruno, Boulic Ronan
+        conference: "IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2017"
+
+      - title: Asymmetric Telecollaboration in Virtual Reality
+        link: 10.1109/VR.2017.7892290
+        authors: Porssut Thibault, Jean-Rémy Chardonnet
+        conference: "IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2017"
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Unity
+        level: 100%
+
+      - name: Matlab
+        level: 80%
+
+      - name: Python & Keras & Machine Learning
+        level: 70%
+
+      - name: C++
+        level: 60%
+
+      - name: C
+        level: 50%
+
+      - name: CATIA
+        level: 50%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
