@@ -56,7 +56,7 @@ career-profile:
       <div style= "text-align: justify !important;"> I received a Master's degree in Mechanical engineering and Industrial Engineering from Ecole des Arts et Métiers and a Research Master’s degree in Digital Mock-up and Virtual Immersion from Institut Image in France. I did my Master project at EVL in Chicago in partnership with Mechdyne.  It was about collaborative tasks between the HTC Vive and the CAVE2.  Now I work on “Embodiment in Virtual Reality” as a PhD student at EPFL under the supervision of Dr. Ronan Boulic and Dr. Buno Herbelin for the IIG laboratory and the LNCO laboratory.</div>
 
 education:
-    - degree: PhD Student in Doctoral School of Robotics, Control, and Intelligent Systems
+    - degree: PhD Student in Doctoral School of Robotics, Control, </br>and Intelligent Systems
       university: École Polytechnique Fédérale de Lausanne, Switzerland
       time: 2016 - Present
       details: |
@@ -83,7 +83,7 @@ education:
          preparing for the National Competitive Entrance Exam
 
 experiences:
-    - role: Research and Teaching Assistant within the Immersive Interaction Group (IIG)
+    - role: Research and Teaching Assistant for the Immersive Interaction Group
       time: 2016 - Present
       company: École Polytechnique Fédérale de Lausanne, Switzerland
       details: |

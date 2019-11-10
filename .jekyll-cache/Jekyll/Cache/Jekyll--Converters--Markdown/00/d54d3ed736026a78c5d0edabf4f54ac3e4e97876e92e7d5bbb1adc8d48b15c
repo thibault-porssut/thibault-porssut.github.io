@@ -1,3 +1,0 @@
-I"ó<div style="text-align: justify;"> In a group of two, we have implemented an application working with a <a href="https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment" target="_blank">CAVE</a> (Cave automatic virtual environment) and stereoscopic glasses equipped with an Eye-Tracking system providing by SMI. The goals were to implement the Unity plugin for the glasses and the CAVE and use the eyes positions to enable a blure the user eyesight to reduce motion sickness.<div />
-</div>
-:ET
