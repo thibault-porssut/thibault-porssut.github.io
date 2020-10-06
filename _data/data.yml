@@ -87,7 +87,7 @@ experiences:
       time: 2016 - Present
       company: École Polytechnique Fédérale de Lausanne, Switzerland
       details: |
-        <div style="text-align: justify;"> I'm a teaching asistant for the C and C++ programming courses for 1st year bachelor students and a VR course for master students.
+        <div style="text-align: justify;"> I'm a teaching assistant for the C and C++ programming courses for 1st year bachelor students and a VR course for master students.
         I have supervised several semester projects for both  master and bachelor students. A list of these projects is available under the Supervised Project section.</div>
 
     - role: Internship
@@ -101,7 +101,7 @@ experiences:
       time: November 2016 - January 2016
       company: 
       details: |
-       <div style="text-align: justify;"> Implemented an immersive application for the businesses working around Châlon-sur-Saône. A long  with a second student, I have implemented a Unity application showcasing a modular shipping container. This container can have several different purposes, for example a laboratory, and the user was able to arrange the 3D model in realtime with several components available. </div>
+       <div style="text-align: justify;"> Implemented an immersive application for the businesses working around Châlon-sur-Saône. A long with a second student, I have implemented a Unity application showcasing a modular shipping container. This container can have several different purposes, for example a laboratory, and the user was able to arrange the 3D model in realtime with several components available. </div>
         
     - role: Student Project
       time: September 2016 - December 2016
@@ -147,32 +147,32 @@ publications:
       - title: Real-Time Neural Network Prediction for Handling Two-Hands Mutual Occlusions 
         link: 10.1016/j.cagx.2019.100011
         authors: Dario Pavllo, Mathias Delahaye, Thibault Porssut, Bruno Herbelin, Ronan Boulic
-        conference: " Computers & Graphics: X, 2019"
+        conference: "Full Paper in  Computers & Graphics: X, 2019"
 
       - title: Reconciling Being in-Control vs. Being Helped for the Execution of Complex Movements in VR
         link: 10.1109/VR.2019.8797716
         authors: Porssut Thibault, Herbelin Bruno, Boulic Ronan
-        conference:  "IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019"
+        conference:  "Full Paper in IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019"
 
       - title: Real-Time Marker-Based Finger Tracking with Neural Networks
         link: 10.1109/VR.2018.8446173
         authors: Dario Pavllo, Thibault Porssut, Bruno Herbelin, Ronan Boulic
-        conference: "IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2018"
+        conference: "Poster IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2018"
 
       - title: Real-time Finger Tracking Using Active Motion Capture:a Neural Network Approach Robust to Occlusions
         link: 10.1145/3274247.3274501
         authors: Dario Pavllo, Thibault Porssut, Bruno Herbelin, Ronan Boulic
-        conference: "Proceedings of the 11th Annual International Conference on Motion, Interaction, and Games"
+        conference: "Full Paper in Proceedings of the 11th Annual International Conference on Motion, Interaction, and Games"
 
       - title: Virtual Zero Gravity Impact on Internal Gravity Model
         link: 10.1109/VR.2017.7892300
         authors: Porssut Thibault, Herbelin Bruno, Boulic Ronan
-        conference: "IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2017"
+        conference: "Poster in IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2017"
 
       - title: Asymmetric Telecollaboration in Virtual Reality
         link: 10.1109/VR.2017.7892290
         authors: Porssut Thibault, Jean-Rémy Chardonnet
-        conference: "IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2017"
+        conference: "Poster in IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2017"
 skills:
     title: Skills &amp; Proficiency
 
