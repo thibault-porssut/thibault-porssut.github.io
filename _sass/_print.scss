@@ -5,12 +5,13 @@
     }
     body {
        font-size: 12pt;
+       margin-top: -8mm; margin-bottom: 00mm;
     }
 
-    img.avatar {
+   /* img.avatar {
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
-    }
+    }*/
    .main-wrapper .time {
        float: right;
         color: black !important;
@@ -36,4 +37,12 @@
        -webkit-print-color-adjust: exact; 
     }
 
+    a:after { content:''; }
+    a[href]:after { content: none !important; }
+
+  
 }
+ @page {
+    margin-top: 2.5cm;
+    margin-bottom: 2.5cm;
+ }
