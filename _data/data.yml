@@ -47,6 +47,13 @@ sidebar:
 
       - item: Traveling 
         link:
+     
+    research-interests:
+      - item: Virtual and Mixed and Augmented Reality
+
+      - item: Neuroscience
+      
+      
 
 
 
@@ -68,7 +75,7 @@ education:
       time: 2015 - 2016
       details: |
          **Thesis Title**: Asymmetric Telecollaboration in Virtual Reality  
-         **Advisorsr**: Dr. Jean-Rémy Chardonnet & Dr. Frederic Merienne
+         **Advisors**: Dr. Jean-Rémy Chardonnet & Dr. Frederic Merienne
 
     - degree: MSc in Mechanical and Industrial Engineering
       university: Ecole Nationale Supérieure des Arts et Métiers, France
@@ -108,7 +115,36 @@ experiences:
       company: Institut Image, Châlon-sur-Saône
       details: |
              <div style="text-align: justify;"> Working in a pair, we implemented an application for  a <a href="https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment" target="_blank">CAVE</a> (Cave automatic virtual environment) and stereoscopic glasses equipped with an eye-tracking system provided by SMI. The goals were to implement a Unity plugin for the glasses and the CAVE, and to use the eye position of the user to reduce motion sickness by blurring everything but  the focus point.</div>
-        
+
+rewards:
+    title: Awards and Grants Received
+    intro: > 
+            List in chronological order:
+
+      # Semester projects for both bachelor and master students in computer science I have designed and supervised during my PhD thesis.
+
+    assignments:
+      - title: Hasler 2020 - 6 Months Grant
+        link: https://haslerstiftung.ch/en/what-the-hasler-foundation-supports/grants/
+        tagline: "Project aiming to study reality perception in VR, AR and MR"
+
+      - title: 2019 Teaching Assistant Award
+        link: https://www.epfl.ch/schools/ic/
+        tagline: " EPFL School of Computer and Communication Sciences (IC) rewarded teaching assistant for their outstanding contributions over the past year"
+
+      - title: Lauz'Hack 2019 - Contest Winner For Bobst Challenge
+        link: https://lauzhack.com/
+        tagline: "Hackaton with different challenges to solve in 24h proposed by different companies: Bobst Challenge - Implement an innovative  way to control a machine - We used finger tracker tracking (Leap Motion) and Eye tracking (Tobii) to propose an efficient to control the machine."
+
+      - title: IEEE VR 2018 Conference - Honorable Mention for Best Poster
+        link: https://ieeevr.org/2018/awards/conference_awards.html
+        tagline: "Since 1993, the IEEE Virtual Reality conference has been the premier international venue for the presentation of research results in the broad area of virtual reality (VR)."
+
+      - title: MIG 2018 Conference - Student Best Paper Award
+        link: http://cyprusconferences.org/mig2018/#
+        tagline: "The goal of the Motion, Interaction and Games conference is to bring together researchers from this variety of fields to present their most recent results, to initiate collaborations, and to contribute to the establishment of the research area.   "
+
+          
 projects:
     title: Supervised Projects
     intro: >
@@ -134,10 +170,14 @@ projects:
       - title: Automatic Grasping in Virtual Reality
         link: Semester project_2018_TP_Automatic Grasping in Virtual Reality.pdf
         tagline: "Implement an automatic grasping system to improve interactions in virtual reality."
+     
+      - title: Joint Center Calibration Tool Combining VR and AR
+        link: 
+        tagline: "Develop a tool to increase the skeleton calibration quality and ease its process for the operator."
 
-        # - title: Break in Presence
+      - title: Implementation of a Virtual Reality Application to Evaluate a Break in Presence.
         #  link: Semester project_2018_TP_Implementation_of_a_Virtual_Reality_Application_to_Evaluate_a_Break_in_Presence.pdf
-        #  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Design an application in Virtual Reality(VR) according to a protocol already established to evaluate a Break in Presence."
 
 publications:
     title: Publications
@@ -146,32 +186,32 @@ publications:
     papers:
       - title: Real-Time Neural Network Prediction for Handling Two-Hands Mutual Occlusions 
         link: 10.1016/j.cagx.2019.100011
-        authors: Dario Pavllo, Mathias Delahaye, Thibault Porssut, Bruno Herbelin, Ronan Boulic
+        authors: Dario Pavllo, Mathias Delahaye, <b> Thibault Porssut </b>, Bruno Herbelin, Ronan Boulic
         conference: "Full Paper in  Computers & Graphics: X, 2019"
 
       - title: Reconciling Being in-Control vs. Being Helped for the Execution of Complex Movements in VR
         link: 10.1109/VR.2019.8797716
-        authors: Porssut Thibault, Herbelin Bruno, Boulic Ronan
+        authors: <b> Porssut Thibault</b>, Herbelin Bruno, Boulic Ronan
         conference:  "Full Paper in IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019"
 
       - title: Real-Time Marker-Based Finger Tracking with Neural Networks
         link: 10.1109/VR.2018.8446173
-        authors: Dario Pavllo, Thibault Porssut, Bruno Herbelin, Ronan Boulic
+        authors: Dario Pavllo, <b> Thibault Porssut</b>, Bruno Herbelin, Ronan Boulic
         conference: "Poster IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2018"
 
       - title: Real-time Finger Tracking Using Active Motion Capture:a Neural Network Approach Robust to Occlusions
         link: 10.1145/3274247.3274501
-        authors: Dario Pavllo, Thibault Porssut, Bruno Herbelin, Ronan Boulic
+        authors: Dario Pavllo, <b> Thibault Porssut</b>, Bruno Herbelin, Ronan Boulic
         conference: "Full Paper in Proceedings of the 11th Annual International Conference on Motion, Interaction, and Games"
 
       - title: Virtual Zero Gravity Impact on Internal Gravity Model
         link: 10.1109/VR.2017.7892300
-        authors: Porssut Thibault, Herbelin Bruno, Boulic Ronan
+        authors: <b> Porssut Thibault</b>, Herbelin Bruno, Boulic Ronan
         conference: "Poster in IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2017"
 
       - title: Asymmetric Telecollaboration in Virtual Reality
         link: 10.1109/VR.2017.7892290
-        authors: Porssut Thibault, Jean-Rémy Chardonnet
+        authors: <b> Porssut Thibault</b>, Jean-Rémy Chardonnet
         conference: "Poster in IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2017"
 skills:
     title: Skills &amp; Proficiency

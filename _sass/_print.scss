@@ -12,11 +12,36 @@
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
     }*/
-   .main-wrapper .time {
-       float: right;
-        color: black !important;
-        -webkit-print-color-adjust: exact; 
+   .main-wrapper .project-title {
+ 
+      font-weight: bold;
+
    }
+   .main-wrapper .publication-title {
+ 
+      font-weight: bold;
+
+   }
+
+   .main-wrapper .job-title, .degree {
+ 
+      font-weight: bold;
+
+   }
+   .main-wrapper .degree {
+ 
+      font-weight: bold;
+
+   }
+   
+
+   .main-wrapper .time {
+      float: right;
+       color: black !important;
+       -webkit-print-color-adjust: exact; 
+       font-weight: bold;
+  }
+
     .sidebar-wrapper {
         position: static;
         float: right;
