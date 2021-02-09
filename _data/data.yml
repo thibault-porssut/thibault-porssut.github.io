@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Thibault Porssut
-    tagline: PhD Student
+    tagline: Postdoctoral Researcher
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email:
-    phone: +33 6 31 35 89 60
+    phone: +41 76 530 30 29
     website: thibault-porssut.github.io #do not add http://
     linkedin: thibault-porssut
     researchgate: Thibault_Porssut
@@ -67,15 +67,21 @@ education:
       university: École Polytechnique Fédérale de Lausanne, Switzerland
       time: 2016 - Present
       details: |
-        **Thesis Title**: Improving Embodiment with an Adaptive Virtual Reality World.  
-        **Advisors**: Dr. Ronan Boulic & Dr. Bruno Herbelin
+        Main contributions in the following fields of research:
+        - Virtual Reality
+        - Neuroscience
+        
+ #       **Thesis Title**: Improving Embodiment with an Adaptive Virtual Reality World.  
+#      **Advisors**: Dr. Ronan Boulic & Dr. Bruno Herbelin
 
     - degree: MSc in Digital Mock-up and Virtual Immersion
       university: Ecole Nationale Supérieure des Arts et Métiers, France
       time: 2015 - 2016
       details: |
-         **Thesis Title**: Asymmetric Telecollaboration in Virtual Reality  
-         **Advisors**: Dr. Jean-Rémy Chardonnet & Dr. Frederic Merienne
+        - Major in Virtual Reality
+        - Minor in Management of 3D Interactive Technologies
+#         **Thesis Title**: Asymmetric Telecollaboration in Virtual Reality  
+#         **Advisors**: Dr. Jean-Rémy Chardonnet & Dr. Frederic Merienne
 
     - degree: MSc in Mechanical and Industrial Engineering
       university: Ecole Nationale Supérieure des Arts et Métiers, France
@@ -90,12 +96,33 @@ education:
          preparing for the National Competitive Entrance Exam
 
 experiences:
-    - role: Research and Teaching Assistant for the Immersive Interaction Group
+
+    - role: Postdoctoral Researcher for the Immersive Interaction Group
+      time: 2020 - Present
+      company: École Polytechnique Fédérale de Lausanne, Switzerland
+      details: |
+        <div style="text-align: justify;"> Design a Unity application combining XR technologies (Virtual Reality (VR), Augmented Reality (AR) and Mixed Reality (MR)) to blend reality and virtual and improve users' immersion.</div>
+
+    - role: Doctoral Thesis at Immersive Interaction Group, "Preventing Breaks in Embodiment in Immersive Virtual Reality."
       time: 2016 - Present
       company: École Polytechnique Fédérale de Lausanne, Switzerland
       details: |
-        <div style="text-align: justify;"> I'm a teaching assistant for the C and C++ programming courses for 1st year bachelor students and a VR course for master students.
-        I have supervised several semester projects for both  master and bachelor students. A list of these projects is available under the Supervised Project section.</div>
+        <div style="text-align: justify;"> Design a system combining brain-computer interface and machine learning to compute users' preferences, and adapt a Virtual Reality application in real-time. Next step will be to bring our framework to consumer.</div>
+
+    - role: Internship
+      time: March 2016 - August 2016
+      company: Electronic Visualization Laboratory, Chicago/Mechdyne, Marshalltown
+      details: |
+        <div style="text-align: justify;"> Design a Unity application simulating a virtual shop with L'Oréal collaboration for immersive devices (1st Project). Evaluate asymmetrical collaboration between different immersive devices (CAVE2 and Headset) showing that users are more efficient (2nd Project). </div>
+        
+       
+
+experiencesAdditional:
+    - role: Teaching Assistant for the Immersive Interaction Group
+      time: 2016 - 2020
+      company: École Polytechnique Fédérale de Lausanne, Switzerland
+      details: |
+        <div style="text-align: justify;"> Teaching assistant for the C and C++ programming courses for 1st year bachelor students and a VR course for master students. I have supervised several semester projects for both master and bachelor students. A list of these projects is available under the Supervised Project section.</div>
 
     - role: Internship
       time: March 2016 - August 2016
@@ -106,9 +133,9 @@ experiences:
        
     - role: Défi Chal'enge
       time: November 2016 - January 2016
-      company: 
+      company: MODULIVE, Startup
       details: |
-       <div style="text-align: justify;"> Implemented an immersive application for the businesses working around Châlon-sur-Saône. A long with a second student, I have implemented a Unity application showcasing a modular shipping container. This container can have several different purposes, for example a laboratory, and the user was able to arrange the 3D model in realtime with several components available. </div>
+       <div style="text-align: justify;"> Collaborative Work with Startup during a competition called CHAL'ENGE AM. Design an interactive tool to fit out former industrial containers in offices or housing. </div>
         
     - role: Student Project
       time: September 2016 - December 2016
@@ -116,6 +143,18 @@ experiences:
       details: |
              <div style="text-align: justify;"> Working in a pair, we implemented an application for  a <a href="https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment" target="_blank">CAVE</a> (Cave automatic virtual environment) and stereoscopic glasses equipped with an eye-tracking system provided by SMI. The goals were to implement a Unity plugin for the glasses and the CAVE, and to use the eye position of the user to reduce motion sickness by blurring everything but  the focus point.</div>
 
+    - role: Internship
+      time: September 2016 - December 2016
+      company: Colas, Construction Company, France
+      details: |
+                <div style="text-align: justify;"> Worked as a construction worker</div>
+
+    - role: Akayama, Import and export company of designer shoes 
+      time: September 2016 - December 2016
+      company: France
+      details: |
+             <div style="text-align: justify;"> Data capture (software used : Texas), Handling (receiving and shipping packages, updating and doing inventory), Updating online sites.</div>
+       
 rewards:
     title: Awards and Grants Received
     intro: > 
@@ -144,6 +183,40 @@ rewards:
         link: http://cyprusconferences.org/mig2018/#
         tagline: "The goal of the Motion, Interaction and Games conference is to bring together researchers from this variety of fields to present their most recent results, to initiate collaborations, and to contribute to the establishment of the research area.   "
 
+publications:
+    title: Publications
+    intro: >
+            List of my publications in chronological order:
+    papers:
+      - title: Real-Time Neural Network Prediction for Handling Two-Hands Mutual Occlusions 
+        link: 10.1016/j.cagx.2019.100011
+        authors: Dario Pavllo, Mathias Delahaye, <b> Thibault Porssut </b>, Bruno Herbelin, Ronan Boulic
+        conference: "Full Paper in  Computers & Graphics: X, 2019"
+
+      - title: Reconciling Being in-Control vs. Being Helped for the Execution of Complex Movements in VR
+        link: 10.1109/VR.2019.8797716
+        authors: <b> Porssut Thibault</b>, Herbelin Bruno, Boulic Ronan
+        conference:  "Full Paper in IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Osaka, Japan, 2019"
+
+      - title: Real-Time Marker-Based Finger Tracking with Neural Networks
+        link: 10.1109/VR.2018.8446173
+        authors: Dario Pavllo, <b> Thibault Porssut</b>, Bruno Herbelin, Ronan Boulic
+        conference: "Poster in IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Reutlingen, Germany, 2018"
+
+      - title: Real-time Finger Tracking Using Active Motion Capture:a Neural Network Approach Robust to Occlusions
+        link: 10.1145/3274247.3274501
+        authors: Dario Pavllo, <b> Thibault Porssut</b>, Bruno Herbelin, Ronan Boulic
+        conference: "Full Paper in Proceedings of the 11th Annual International Conference on Motion, Interaction, and Games, Limassol, Cyprus, 2018 "
+
+      - title: Virtual Zero Gravity Impact on Internal Gravity Model
+        link: 10.1109/VR.2017.7892300
+        authors: <b> Porssut Thibault</b>, Herbelin Bruno, Boulic Ronan
+        conference: "Poster in IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Los Angeles, US, 2017"
+
+      - title: Asymmetric Telecollaboration in Virtual Reality
+        link: 10.1109/VR.2017.7892290
+        authors: <b> Porssut Thibault</b>, Jean-Rémy Chardonnet
+        conference: "Poster in IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Los Angeles, US, 2017"
           
 projects:
     title: Supervised Projects
@@ -151,6 +224,11 @@ projects:
       Semester projects for both bachelor and master students in computer science I have designed and supervised during my PhD thesis.
 
     assignments:
+
+      - title: Eye-tracking Realtime Interactions
+        link: 
+        tagline: "Design and implementation of an Eye-tracking tool for virtual reality experiments"
+
       - title: Procedural Game Based on the Real World
         link: Semester project_2018_TP_Procedural_Game_Based_on_the_Real_World.pdf
         tagline: "Develop a game in Virtual Reality taking advantage of tangible elements in  the world surrounding the user."
@@ -179,51 +257,21 @@ projects:
         #  link: Semester project_2018_TP_Implementation_of_a_Virtual_Reality_Application_to_Evaluate_a_Break_in_Presence.pdf
         tagline: "Design an application in Virtual Reality(VR) according to a protocol already established to evaluate a Break in Presence."
 
-publications:
-    title: Publications
-    intro: >
-            List of my publications in chronological order:
-    papers:
-      - title: Real-Time Neural Network Prediction for Handling Two-Hands Mutual Occlusions 
-        link: 10.1016/j.cagx.2019.100011
-        authors: Dario Pavllo, Mathias Delahaye, <b> Thibault Porssut </b>, Bruno Herbelin, Ronan Boulic
-        conference: "Full Paper in  Computers & Graphics: X, 2019"
+      - title: Online Sharing Relaxation Space
+        link: 
+        tagline: "Propose an online immersive relaxation space, which focuses on physical social interactions and offers social-bonding prone indoor and outdoor environments during the COVID-19 Context."
 
-      - title: Reconciling Being in-Control vs. Being Helped for the Execution of Complex Movements in VR
-        link: 10.1109/VR.2019.8797716
-        authors: <b> Porssut Thibault</b>, Herbelin Bruno, Boulic Ronan
-        conference:  "Full Paper in IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2019"
-
-      - title: Real-Time Marker-Based Finger Tracking with Neural Networks
-        link: 10.1109/VR.2018.8446173
-        authors: Dario Pavllo, <b> Thibault Porssut</b>, Bruno Herbelin, Ronan Boulic
-        conference: "Poster IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2018"
-
-      - title: Real-time Finger Tracking Using Active Motion Capture:a Neural Network Approach Robust to Occlusions
-        link: 10.1145/3274247.3274501
-        authors: Dario Pavllo, <b> Thibault Porssut</b>, Bruno Herbelin, Ronan Boulic
-        conference: "Full Paper in Proceedings of the 11th Annual International Conference on Motion, Interaction, and Games"
-
-      - title: Virtual Zero Gravity Impact on Internal Gravity Model
-        link: 10.1109/VR.2017.7892300
-        authors: <b> Porssut Thibault</b>, Herbelin Bruno, Boulic Ronan
-        conference: "Poster in IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2017"
-
-      - title: Asymmetric Telecollaboration in Virtual Reality
-        link: 10.1109/VR.2017.7892290
-        authors: <b> Porssut Thibault</b>, Jean-Rémy Chardonnet
-        conference: "Poster in IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 2017"
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Unity
+      - name: Unity & MS Office
         level: 100%
 
-      - name: Matlab
+      - name: Matlab & Data Analysis & Latex & Git 
         level: 80%
 
-      - name: Python & Keras & Machine Learning
+      - name: Python & Keras & Machine Learning  & GanttProject 
         level: 70%
 
       - name: C#
@@ -232,10 +280,10 @@ skills:
       - name: C++
         level: 40%
 
-      - name: C
+      - name: C & Bash/Shell
         level: 20%
 
-      - name: CATIA
+      - name: CATIA & OpenViBE & CATIA & Magma
         level: 50%
 
 footer: >
