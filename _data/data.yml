@@ -188,6 +188,12 @@ publications:
     intro: >
             List of my publications in chronological order:
     papers:
+      - title: Adapting Virtual Embodiment through Reinforcement Learning
+        link: 10.1109/TVCG.2021.3057797
+        authors: <b> Thibault Porssut </b>, Yawen Hou, Bruno Herbelin, Ronan Boulic
+        conference: "Full Paper in  IEEE Transactions on Visualization and Computer Graphics"
+
+
       - title: Real-Time Neural Network Prediction for Handling Two-Hands Mutual Occlusions 
         link: 10.1016/j.cagx.2019.100011
         authors: Dario Pavllo, Mathias Delahaye, <b> Thibault Porssut </b>, Bruno Herbelin, Ronan Boulic
